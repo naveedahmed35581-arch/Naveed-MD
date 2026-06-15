@@ -1,22 +1,8 @@
-const { default: makeWASocket, useMultiFileAuthState } = require("@whiskeysockets/baileys");
 
-async function startBot() {
-  const { state, saveCreds } = await useMultiFileAuthState("auth");
+console.log("Naveed MD Bot Running OK");
 
-  const sock = makeWASocket({
-    auth: state,
-    printQRInTerminal: false
-  });
+const http = require('http');
 
-  sock.ev.on("connection.update", (update) => {
-    const { connection } = update;
-
-    if (connection === "open") {
-      console.log("✅ WhatsApp Bot Connected");
-    }
-  });
-
-  sock.ev.on("creds.update", saveCreds);
-}
-
-startBot();
+http.createServer((req, res) => {
+  res.end("Server OK");
+}).listen(process.env.PORT || 3000);
