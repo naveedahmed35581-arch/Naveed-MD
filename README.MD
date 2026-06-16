@@ -1,19 +1,129 @@
-Naveed MD
+🤖 NAVEED MD
 
-Public WhatsApp Multi Device Bot
+<p align="center">
+<img src="https://bandaheali-cdn.koyeb.app/media/bot_1781626177072.jpeg" width="300">
+</p><p align="center">
+Naveed MD - WhatsApp Multi Device Bot
+</p>---
 
-Owner
+👑 OWNER
 
-Naveed
+Name : Naveed
+Number : 923213231887
 
-Status
+📢 OFFICIAL CHANNEL
 
-Development
+https://whatsapp.com/channel/0029Vawbj7e5kg7AFF5MuZ28
 
-Hosting
+---
 
-Render
+⚡ QUICK LINKS
 
-Version
+🔗 REPOSITORY
 
-1.0.0
+https://github.com/naveedahmed35581-arch/Naveed-MD
+
+🍴 FORK REPO
+
+https://github.com/naveedahmed35581-arch/Naveed-MD/fork
+
+---
+
+🚀 DEPLOY OPTIONS
+
+HEROKU
+
+Supported ✅
+
+RENDER
+
+Supported ✅
+
+KOYEB
+
+Supported ✅
+
+VPS
+
+Supported ✅
+
+TERMUX
+
+Supported ✅
+
+---
+
+🔑 PAIR SYSTEM
+
+Pair Code System Available ✅
+
+Session System Available ✅
+
+---
+
+📦 FEATURES
+
+OWNER
+
+- .owner
+- .support
+
+BOT
+
+- .ping
+- .alive
+- .menu
+- .info
+
+GROUP
+
+- .group
+- .tagall
+- .hidetag
+- .kick
+- .add
+- .promote
+- .demote
+- .mute
+- .unmute
+- .open
+- .close
+
+SYSTEM
+
+- .runtime
+- .uptime
+- .status
+- .version
+
+---
+
+🌍 HOSTING
+
+- Render
+- Heroku
+- Koyeb
+- VPS
+- Termux
+
+---
+
+📊 BOT INFO
+
+Item| Status
+Multi Device| ✅
+Public Mode| ✅
+Auto Reconnect| ✅
+Session Login| ✅
+Pair Code| ✅
+Commands| ✅
+
+---
+
+📦 VERSION
+
+Naveed MD v1.0.0
+
+---
+
+Made With ❤️ By Naveed
