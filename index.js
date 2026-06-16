@@ -39,4 +39,6 @@ http.createServer((req, res) => {
 res.end("Naveed MD Running");
 }).listen(process.env.PORT || 3000);
 
-console.log("Server Running OK");
+console.log("Server Running OK");const handler = require("./handler");sock.ev.on("messages.upsert", async (m) => {
+    await handler(sock, m);
+});
