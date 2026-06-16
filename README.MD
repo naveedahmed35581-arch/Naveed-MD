@@ -88,4 +88,14 @@ If you like this project don't forget to:
 
 📢 Join Official Channel
 
-🤝 Share With Friends
+🤝 Share With Friends  # 📢 JOIN CHANNEL
+
+[![JOIN CHANNEL](https://img.shields.io/badge/JOIN_WHATSAPP_CHANNEL-green?style=for-the-badge)](https://whatsapp.com/channel/0029Vawbj7e5kg7AFF5MuZ28)
+
+# 🔑 PAIR CODE
+
+[![PAIR CODE](https://img.shields.io/badge/PAIR_CODE-COMING_SOON-red?style=for-the-badge)](https://github.com/naveedahmed35581-arch/Naveed-MD)
+
+# 🍴 FORK REPO
+
+[![FORK](https://img.shields.io/badge/FORK_NAVEED_MD-success?style=for-the-badge)](https://github.com/naveedahmed35581-arch/Naveed-MD/fork)
