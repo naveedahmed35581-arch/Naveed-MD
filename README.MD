@@ -126,4 +126,33 @@ Naveed MD v1.0.0
 
 ---
 
-Made With ❤️ By Naveed
+Made With ❤️ By Naveed 
+🚀 QUICK DEPLOY
+
+🍴 Fork Repository
+
+""Fork Repo" (https://img.shields.io/badge/FORK-NAVEED_MD-success?style=for-the-badge)" (https://github.com/naveedahmed35581-arch/Naveed-MD/fork)
+
+📦 Repository
+
+""Repository" (https://img.shields.io/badge/REPOSITORY-NAVEED_MD-blue?style=for-the-badge)" (https://github.com/naveedahmed35581-arch/Naveed-MD)
+
+🌐 Render
+
+""Render" (https://img.shields.io/badge/DEPLOY_RENDER-black?style=for-the-badge)" (https://render.com)
+
+🟣 Heroku
+
+""Heroku" (https://img.shields.io/badge/DEPLOY_HEROKU-purple?style=for-the-badge)" (https://heroku.com)
+
+🔵 Koyeb
+
+""Koyeb" (https://img.shields.io/badge/DEPLOY_KOYEB-blue?style=for-the-badge)" (https://koyeb.com)
+
+📢 WhatsApp Channel
+
+""Channel" (https://img.shields.io/badge/JOIN_CHANNEL-green?style=for-the-badge)" (https://whatsapp.com/channel/0029Vawbj7e5kg7AFF5MuZ28)
+
+🔑 Pair Code
+
+Coming Soon 🚧
