@@ -2,8 +2,13 @@ module.exports = {
   name: "owner",
   run: async () => {
     return `
-👑 Owner: Naveed
-🤖 Bot: Naveed MD
-`
+╔════◇
+║ 👑 OWNER INFO
+╠════◇
+║ Name: Naveed
+║ Bot: Naveed MD
+║ Status: Online ✅
+╚════◇
+`;
   }
 }
