@@ -1,20 +1,20 @@
 module.exports = {
   name: "menu",
-  description: "Bot Commands Menu",
+  description: "Main Menu",
 
   async execute() {
     return `
 ╔═══『 🤖 NAVEED MD 』
 ║
 ║ 👑 Owner : Naveed
-║ 📱 Prefix : .
-║ ⚡ Status : Online
+║ ⚡ Version : 1.0
 ║
 ╠═══『 COMMANDS 』
 ║
-║ .alive
-║ .ping
 ║ .menu
+║ .ping
+║ .alive
+║ .owner
 ║
 ╚═══════════════╝
 `;

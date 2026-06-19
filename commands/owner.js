@@ -1,15 +1,12 @@
 module.exports = {
   name: "owner",
-  description: "Owner Information",
+  description: "Owner Info",
 
   async execute() {
     return `
-👑 OWNER INFO
-
-📛 Name: Naveed
-📱 Number: 923213231887
-🤖 Bot: Naveed MD
-⚡ Status: Online
+👑 OWNER: Naveed
+📱 NUMBER: 923213231887
+🤖 BOT: Naveed MD
 `;
   }
 };
