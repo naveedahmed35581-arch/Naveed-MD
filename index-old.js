@@ -3,20 +3,27 @@ const {
   useMultiFileAuthState
 } = require("@whiskeysockets/baileys");
 
-const loadCommands = require("./handlers/command");
-const events = require("./handlers/events");
+const fs = require("fs");
+const path = require("path");
 
 console.log("🚀 Naveed MD Starting...");
 
-const commands = loadCommands();
+const commands = {};
 
-console.log(
-  `✅ ${Object.keys(commands).length} Commands Loaded`
-);
+const commandFiles = fs.readdirSync("./commands").filter(file => file.endsWith(".js"));
+
+for (const file of commandFiles) {
+  const command = require(path.join(__dirname, "commands", file));
+
+  if (command.name) {
+    commands[command.name] = command;
+  }
+}
+
+console.log(`✅ ${Object.keys(commands).length} Commands Loaded`);
 
 async function startBot() {
-  const { state, saveCreds } =
-    await useMultiFileAuthState("./session");
+  const { state, saveCreds } = await useMultiFileAuthState("./session");
 
   const sock = makeWASocket({
     auth: state
@@ -37,8 +44,6 @@ async function startBot() {
   sock.ev.on("messages.upsert", async ({ messages }) => {
     const msg = messages[0];
 
-    await events(sock, msg);
-
     if (!msg.message) return;
 
     const text =
@@ -48,25 +53,17 @@ async function startBot() {
 
     if (!text.startsWith(".")) return;
 
-    const cmd =
-      text.slice(1).split(" ")[0].toLowerCase();
+    const cmd = text.slice(1).split(" ")[0].toLowerCase();
 
     if (!commands[cmd]) return;
 
     try {
-      const result =
-        await commands[cmd].execute(
-          sock,
-          msg,
-          text
-        );
+      const result = await commands[cmd].execute();
 
-      if (result) {
-        await sock.sendMessage(
-          msg.key.remoteJid,
-          { text: String(result) }
-        );
-      }
+      await sock.sendMessage(
+        msg.key.remoteJid,
+        { text: String(result || "✅ Done") }
+      );
     } catch (err) {
       console.log(err);
     }
