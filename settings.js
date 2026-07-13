@@ -1,3 +1,4 @@
-export function helper() {
-  return true;
-}
+module.exports = {
+  SESSION_ID: "",
+  CDN: "https://bandaheali-cdn.koyeb.app"
+};
