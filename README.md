@@ -19,13 +19,13 @@
 
 
 <p align="center">
-<a href="https://github.com/naveedahmed35581-arch/NAVEED-MD-"><img title="PUBLIC-BOT" src="https://img.shields.io/static/v1?label=Language&message=English&style=square&color=darkpink"></a> &nbsp;
-  <img src="https://komarev.com/ghpvc/?username=NAVEED-MD-&label=VIEWS&style=square&color=blue" />
+<a href="https://github.com/naveedahmed35581-arch/NAVEED-MD"><img title="PUBLIC-BOT" src="https://img.shields.io/static/v1?label=Language&message=English&style=square&color=darkpink"></a> &nbsp;
+  <img src="https://komarev.com/ghpvc/?username=NAVEED-MD&label=VIEWS&style=square&color=blue" />
 </p>
 </p> 
 
 <p align="center">
-  <a href="https://github.com/naveedahmed35581-arch/NAVEED-MD-"><img title="Release" src="https://img.shields.io/badge/Release-beta%20v5-cyan.svg?style=for-the-badge&logo=aqua" /></a>
+  <a href="https://github.com/naveedahmed35581-arch/NAVEED-MD"><img title="Release" src="https://img.shields.io/badge/Release-beta%20v5-cyan.svg?style=for-the-badge&logo=aqua" /></a>
 </p>
 
 
@@ -37,13 +37,13 @@
 
   
 <a
-href="https://github.com/naveedahmed35581-arch/NAVEED-MD-/graphs/commit-activity"><img height="20" src="https://img.shields.io/badge/Maintained%3F-yes-green.svg"></a>&nbsp;&nbsp;
+href="https://github.com/naveedahmed35581-arch/NAVEED-MD/graphs/commit-activity"><img height="20" src="https://img.shields.io/badge/Maintained%3F-yes-green.svg"></a>&nbsp;&nbsp;
 </p>
 <p align='center'>
 
  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=monospace-ExtraBold&color=blue&lines=𝗙𝗢𝗥𝗞+𝗔𝗡𝗗+𝗦𝗧𝗔𝗥+⭐+𝗥𝗘𝗣𝗢)](https://git.io/typing-svg)
  <p align="lift">
- <a href="https://github.com/naveedahmed35581-arch/NAVEED-MD-/fork"><img title="NAVEED-MD-" src="https://img.shields.io/badge/FORK-NAVEED MD--h?color=008000&style=for-the-badge&logo=github"></a>
+ <a href="https://github.com/naveedahmed35581-arch/NAVEED-MD/fork"><img title="NAVEED-MD" src="https://img.shields.io/badge/FORK-NAVEED MD-h?color=008000&style=for-the-badge&logo=github"></a>
  
 
   **🪀 SESSION WEB**
@@ -58,11 +58,11 @@ href="https://github.com/naveedahmed35581-arch/NAVEED-MD-/graphs/commit-activity
 <div align="center">
   <table>
     <tr>
-      <td><a href="https://dashboard.heroku.com/new-app?template=https://github.com/naveedahmed35581-arch/NAVEED-MD-" target="_blank"><img src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white&labelColor=000000&color=0000FF"/></a></td>
+      <td><a href="https://dashboard.heroku.com/new-app?template=https://github.com/naveedahmed35581-arch/NAVEED-MD" target="_blank"><img src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white&labelColor=000000&color=0000FF"/></a></td>
       <td><a href="https://host.talkdrove.com/share-bot/47" target="_blank"><img src="https://img.shields.io/badge/TalkDrove-A52A2A?style=for-the-badge&logo=github&logoColor=white&labelColor=000000"/></a></td>
     </tr>
     <tr>
-      <td><a href="https://app.koyeb.com/services/deploy?type=git&repository=naveedahmed35581-arch/NAVEED-MD-" target="_blank"><img src="https://img.shields.io/badge/Koyeb-FF009D?style=for-the-badge&logo=koyeb&logoColor=white&labelColor=000000"/></a></td>
+      <td><a href="https://app.koyeb.com/services/deploy?type=git&repository=naveedahmed35581-arch/NAVEED-MD" target="_blank"><img src="https://img.shields.io/badge/Koyeb-FF009D?style=for-the-badge&logo=koyeb&logoColor=white&labelColor=000000"/></a></td>
       <td><a href="https://railway.app/new" target="_blank"><img src="https://img.shields.io/badge/Railway-FF8700?style=for-the-badge&logo=railway&logoColor=white&labelColor=000000"/></a></td>
     </tr>
     <tr>
@@ -84,7 +84,7 @@ href="https://github.com/naveedahmed35581-arch/NAVEED-MD-/graphs/commit-activity
 
 -------------
 
-**✠ YOU CAN ALSO COPY THIS WORKFLOW FOR FREE DEPLOYMENT OF NAVEED-MD- ✠**
+**✠ YOU CAN ALSO COPY THIS WORKFLOW FOR FREE DEPLOYMENT OF NAVEED-MD ✠**
 
 ```
 name: Node.js CI
@@ -147,7 +147,7 @@ jobs:
   <img src="https://i.imgur.com/dBaSKWF.gif" height="40" width="100%">
 </p>
 
-## 🤖 _NAVEED-MD- STATUS_
+## 🤖 _NAVEED-MD STATUS_
 
 ```diff
 + Project Status: Active
@@ -164,26 +164,26 @@ jobs:
 <div align="center">
 
 <!-- Animated Sparkle Divider -->
-<img src="https://i.giphy.com/media/XcQ0XH32ya0Gs3QNwk/giphy.webp" width="450" alt="Naveed-MD-">
+<img src="https://i.giphy.com/media/XcQ0XH32ya0Gs3QNwk/giphy.webp" width="450" alt="Naveed-MD">
 
 <!-- Enhanced Glowing CTA Button -->
-<a href="https://github.com/naveedahmed35581-arch/NAVEED-MD-/fork">
+<a href="https://github.com/naveedahmed35581-arch/NAVEED-MD/fork">
   <img src="https://readme-typing-svg.demolab.com?font=Comfortaa&size=22&duration=2000&pause=500&color=FF9D00&background=1A1A1A&center=true&vCenter=true&width=550&repeat=true&lines=%E2%9A%A0%EF%B8%8F++FORK++%F0%9F%8D%B4++%26++STAR++%F0%9F%8C%9F++TO++SUPPORT++%E2%9A%A0%EF%B8%8F;%F0%9F%94%A5++HELP++GROW++THE++PROJECT++%F0%9F%94%A5" alt="CTA">
 </a>
 
 <!-- New Feature Badges -->
 <div style="margin-top:25px">
   
-[![GitHub Forks](https://img.shields.io/badge/FORKS-%3F-00FFAA?style=for-the-badge&logo=github&labelColor=1A1A1A)](https://github.com/naveedahmed35581-arch/NAVEED-MD-/fork)
-[![GitHub Stars](https://img.shields.io/badge/STARS-%3F-00BFFF?style=for-the-badge&logo=github&labelColor=1A1A1A)](https://github.com/naveedahmed35581-arch/NAVEED-MD-)
-[![Active](https://img.shields.io/badge/STATUS-ACTIVE-00FF00?style=for-the-badge&logo=vercel)](https://github.com/naveedahmed35581-arch/NAVEED-MD-)
+[![GitHub Forks](https://img.shields.io/badge/FORKS-%3F-00FFAA?style=for-the-badge&logo=github&labelColor=1A1A1A)](https://github.com/naveedahmed35581-arch/NAVEED-MD/fork)
+[![GitHub Stars](https://img.shields.io/badge/STARS-%3F-00BFFF?style=for-the-badge&logo=github&labelColor=1A1A1A)](https://github.com/naveedahmed35581-arch/NAVEED-MD)
+[![Active](https://img.shields.io/badge/STATUS-ACTIVE-00FF00?style=for-the-badge&logo=vercel)](https://github.com/naveedahmed35581-arch/NAVEED-MD)
 
 </div>
 
 <!-- New Animated Contributors -->
 <div style="margin-top:20px">
 
-[![Contributors](https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=3000&pause=1000&color=58A6FF&background=00000000&center=true&vCenter=true&width=500&lines=THANKS+TO+ALL+CONTRIBUTORS+%F0%9F%99%8F;SPECIAL+THANKS+TO+OUR+STAR+SUPPORTERS+%E2%AD%90)](https://github.com/naveedahmed35581-arch/NAVEED-MD-/graphs/contributors)
+[![Contributors](https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=3000&pause=1000&color=58A6FF&background=00000000&center=true&vCenter=true&width=500&lines=THANKS+TO+ALL+CONTRIBUTORS+%F0%9F%99%8F;SPECIAL+THANKS+TO+OUR+STAR+SUPPORTERS+%E2%AD%90)](https://github.com/naveedahmed35581-arch/NAVEED-MD/graphs/contributors)
 
 </div>
 
