@@ -48,7 +48,7 @@ href="https://github.com/naveedahmed35581-arch/NAVEED-MD/graphs/commit-activity"
 
   **🪀 SESSION WEB**
   
-  <a href='https://bandaheali-pair.zone.id' target="_blank">
+  <a href='https://classique-moliere-78387-3aadd828798e.herokuapp.com/' target="_blank">
     <img src='https://img.shields.io/badge/PAIR_CODE-FF0000?style=for-the-badge&logo=matrix&logoColor=white&labelColor=000000'/>
   </a></br>
 
