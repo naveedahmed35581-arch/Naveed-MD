@@ -1,0 +1,244 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>NAVEED-MD Pair Panel</title>
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+        }
+        body {
+            background: #0a0a0a;
+            color: #00ff00;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            min-height: 100vh;
+            padding: 20px;
+        }
+        .container {
+            background: #111;
+            border: 1px solid #00ff00;
+            border-radius: 20px;
+            padding: 40px;
+            max-width: 500px;
+            width: 100%;
+            box-shadow: 0 0 50px rgba(0, 255, 0, 0.1);
+        }
+        .header {
+            text-align: center;
+            border-bottom: 1px solid #00ff00;
+            padding-bottom: 20px;
+            margin-bottom: 20px;
+        }
+        .header h1 {
+            font-size: 28px;
+            color: #00ff00;
+            text-shadow: 0 0 20px rgba(0, 255, 0, 0.3);
+        }
+        .header p {
+            color: #aaa;
+            font-size: 14px;
+        }
+        .form-group {
+            margin-bottom: 20px;
+        }
+        .form-group label {
+            display: block;
+            margin-bottom: 8px;
+            color: #aaa;
+        }
+        .form-group input {
+            width: 100%;
+            padding: 14px;
+            border: 1px solid #333;
+            border-radius: 10px;
+            background: #1a1a1a;
+            color: #00ff00;
+            font-size: 16px;
+            transition: 0.3s;
+        }
+        .form-group input:focus {
+            border-color: #00ff00;
+            outline: none;
+            box-shadow: 0 0 20px rgba(0, 255, 0, 0.1);
+        }
+        .btn {
+            background: #00ff00;
+            color: #000;
+            border: none;
+            padding: 14px;
+            border-radius: 10px;
+            font-weight: bold;
+            cursor: pointer;
+            transition: 0.3s;
+            width: 100%;
+            font-size: 16px;
+        }
+        .btn:hover {
+            background: #00cc00;
+            box-shadow: 0 0 30px rgba(0, 255, 0, 0.2);
+        }
+        .btn:disabled {
+            background: #333;
+            color: #666;
+            cursor: not-allowed;
+        }
+        .status {
+            margin-top: 20px;
+            padding: 15px;
+            border-radius: 10px;
+            background: #1a1a1a;
+            text-align: center;
+            color: #aaa;
+            display: none;
+        }
+        .status.show {
+            display: block;
+        }
+        .status.success {
+            border-left: 4px solid #00ff00;
+            color: #00ff00;
+        }
+        .status.error {
+            border-left: 4px solid #ff4444;
+            color: #ff4444;
+        }
+        .status.loading {
+            border-left: 4px solid #ffaa00;
+            color: #ffaa00;
+        }
+        .footer {
+            text-align: center;
+            border-top: 1px solid #222;
+            padding-top: 20px;
+            margin-top: 20px;
+            color: #666;
+            font-size: 12px;
+        }
+        .session-box {
+            background: #1a1a1a;
+            padding: 15px;
+            border-radius: 10px;
+            margin-top: 15px;
+            word-break: break-all;
+            font-size: 12px;
+            color: #00ff00;
+            border: 1px solid #00ff00;
+            display: none;
+        }
+        .session-box.show {
+            display: block;
+        }
+        .copy-btn {
+            background: #333;
+            color: #00ff00;
+            border: 1px solid #00ff00;
+            padding: 8px 16px;
+            border-radius: 8px;
+            cursor: pointer;
+            margin-top: 10px;
+            font-size: 14px;
+        }
+        .copy-btn:hover {
+            background: #00ff00;
+            color: #000;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <div class="header">
+            <h1>⚡ NAVEED-MD</h1>
+            <p>Pair Panel • v5.0</p>
+        </div>
+
+        <div class="form-group">
+            <label>📱 Enter Phone Number</label>
+            <input type="text" id="number" placeholder="923213231887" value="923213231887">
+        </div>
+
+        <button class="btn" id="pairBtn" onclick="startPair()">🔑 Get Pair Code</button>
+
+        <div id="status" class="status"></div>
+        <div id="sessionBox" class="session-box">
+            <p><strong>✅ Session ID Generated!</strong></p>
+            <p id="sessionId" style="font-size: 12px; margin: 10px 0;"></p>
+            <button class="copy-btn" onclick="copySession()">📋 Copy Session ID</button>
+        </div>
+
+        <div class="footer">
+            © 2026 NAVEED-MD • Powered by NAVEED
+        </div>
+    </div>
+
+    <script>
+        let currentSessionId = '';
+
+        async function startPair() {
+            const number = document.getElementById('number').value.trim();
+            const btn = document.getElementById('pairBtn');
+            const status = document.getElementById('status');
+
+            if (!number) {
+                showStatus('Please enter a phone number!', 'error');
+                return;
+            }
+
+            btn.disabled = true;
+            btn.textContent = '⏳ Processing...';
+            showStatus('⏳ Connecting to WhatsApp...', 'loading');
+
+            try {
+                const response = await fetch('/pair', {
+                    method: 'POST',
+                    headers: { 'Content-Type': 'application/json' },
+                    body: JSON.stringify({ number })
+                });
+
+                const data = await response.json();
+
+                if (data.success) {
+                    currentSessionId = data.sessionId;
+                    showStatus('✅ Pair code sent successfully!', 'success');
+                    document.getElementById('sessionId').textContent = currentSessionId;
+                    document.getElementById('sessionBox').classList.add('show');
+                } else {
+                    showStatus('❌ ' + data.message, 'error');
+                }
+            } catch (error) {
+                showStatus('❌ Error: ' + error.message, 'error');
+            }
+
+            btn.disabled = false;
+            btn.textContent = '🔑 Get Pair Code';
+        }
+
+        function showStatus(message, type) {
+            const status = document.getElementById('status');
+            status.textContent = message;
+            status.className = 'status show ' + type;
+        }
+
+        function copySession() {
+            const sessionId = document.getElementById('sessionId').textContent;
+            navigator.clipboard.writeText(sessionId).then(() => {
+                alert('✅ Session ID copied to clipboard!');
+            }).catch(() => {
+                const range = document.createRange();
+                const selection = window.getSelection();
+                const el = document.getElementById('sessionId');
+                range.selectNodeContents(el);
+                selection.removeAllRanges();
+                selection.addRange(range);
+                document.execCommand('copy');
+                alert('✅ Session ID copied!');
+            });
+        }
+    </script>
+</body>
+</html>
