@@ -15,17 +15,13 @@ router.post('/', async (req, res) => {
             return res.json({ success: false, message: 'Number is required' });
         }
 
-        // Clean number
         const cleanNumber = number.replace(/[^0-9]/g, '');
-        const fullNumber = cleanNumber + '@s.whatsapp.net';
-
-        // Create session folder
+        
         const sessionDir = path.join(__dirname, '../tmp/session_' + cleanNumber);
         if (!fs.existsSync(sessionDir)) {
             fs.mkdirSync(sessionDir, { recursive: true });
         }
 
-        // Generate session
         const { state, saveCreds } = await useMultiFileAuthState(sessionDir);
         const { version } = await fetchLatestBaileysVersion();
 
@@ -36,17 +32,15 @@ router.post('/', async (req, res) => {
             browser: ['NAVEED-MD', 'Chrome', '120.0.0.0'],
         });
 
-        // Save session on update
         sock.ev.on('creds.update', saveCreds);
 
-        // Wait for QR or pairing code
-        const pairCode = await new Promise((resolve, reject) => {
+        const sessionId = await new Promise((resolve, reject) => {
             const timeout = setTimeout(() => {
                 reject(new Error('Pairing timeout'));
             }, 60000);
 
             sock.ev.on('connection.update', async (update) => {
-                const { connection, lastDisconnect, qr, pairingCode } = update;
+                const { connection, pairingCode } = update;
 
                 if (pairingCode) {
                     clearTimeout(timeout);
@@ -56,7 +50,6 @@ router.post('/', async (req, res) => {
 
                 if (connection === 'open') {
                     clearTimeout(timeout);
-                    // Generate session ID
                     const sessionId = Buffer.from(
                         JSON.stringify(state.creds)
                     ).toString('base64');
@@ -75,7 +68,7 @@ router.post('/', async (req, res) => {
 
         res.json({
             success: true,
-            sessionId: pairCode,
+            sessionId: sessionId,
             message: 'Pairing successful!'
         });
 
