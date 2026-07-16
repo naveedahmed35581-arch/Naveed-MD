@@ -1,116 +1,190 @@
-<p align="center">
-  <img src="https://i.ibb.co/gLVDLnq6/file-00000000ee3c7207bc8745037a95cfc2.png" width="180" height="180" style="border-radius: 50%; border: 4px solid #00ff00; box-shadow: 0 0 30px #00ff00; object-fit: cover;"/>
-</p>
-
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Black+Ops+One&size=40&pause=1000&color=00FF00&center=true&vCenter=true&width=500&height=70&lines=NAVEED-MD" alt="NAVEED-MD" />
+  <img src="https://i.ibb.co/gLVDLnq6/file-00000000ee3c7207bc8745037a95cfc2.png" width="800" style="border-radius:25px; box-shadow:0 0 40px #00ff00;"/>
 </h1>
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=500&color=00FF00&center=true&vCenter=true&width=600&lines=⚡+THE+MOST+POWERFUL+WHATSAPP+BOT;🔥+DEVELOPER+BY+NAVEED-MD;🚀+FAST+⚡+SECURE+🔒+RELIABLE+✅" alt="Typing SVG" />
-</p>
+<a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 
 <!-- BADGES -->
 <p align="center">
-  <a href="https://github.com/naveedahmed35581-arch"><img title="Developer" src="https://img.shields.io/badge/👑_Author-NAVEED--MD-FF00FF?style=for-the-badge&logo=github&logoColor=white&labelColor=000000"/></a>
-  <a href="https://github.com/naveedahmed35581-arch/NAVEED-MD"><img title="Language" src="https://img.shields.io/badge/💻_JavaScript-100%25-yellow?style=for-the-badge&logo=javascript&logoColor=white&labelColor=000000"/></a>
-  <a href="https://github.com/naveedahmed35581-arch/NAVEED-MD"><img title="Size" src="https://img.shields.io/badge/📦_Repo_Size-342_KiB-00FFAA?style=for-the-badge&logo=github&logoColor=white&labelColor=000000"/></a>
+  <a href="https://github.com/naveedahmed35581-arch/NAVEED-MD/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/naveedahmed35581-arch/NAVEED-MD?color=00FF00&style=flat-square&logo=github&cacheSeconds=3600"/></a>
+  <a href="https://github.com/naveedahmed35581-arch/NAVEED-MD/network/members"><img title="Forks" src="https://img.shields.io/github/forks/naveedahmed35581-arch/NAVEED-MD?color=00FF00&style=flat-square&logo=github&cacheSeconds=3600"/></a>
+  <a href="https://github.com/naveedahmed35581-arch/NAVEED-MD/"><img title="Size" src="https://img.shields.io/github/repo-size/naveedahmed35581-arch/NAVEED-MD?style=flat-square&color=00FF00&cacheSeconds=3600"/></a>
+  <a href="https://github.com/naveedahmed35581-arch/NAVEED-MD/graphs/commit-activity"><img height="20" src="https://img.shields.io/badge/Maintained%3F-yes-00FF00.svg"/></a>
 </p>
+
+<a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
+
+<!-- DEVELOPER NAME -->
+<p align="center">
+  <a href="https://github.com/naveedahmed35581-arch" target="_blank">
+    <img src="https://img.shields.io/badge/👨‍💻_DEVELOPER-NAVEED_MD-00FF00?style=for-the-badge&logoColor=black&labelColor=000000"/>
+  </a>
+</p>
+
+<a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
+
+<!-- VIEWS COUNTER -->
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=NAVEED-MD&label=TOTAL+VIEWS&style=for-the-badge&color=00FF00&labelColor=000000"/>
+</p>
+
+<a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
+
+<!-- CHANNEL UPDATE - NAYA CHANNEL -->
+<p align="center">
+  <a href="https://whatsapp.com/channel/0029Vawbj7e5kg7AFF5MuZ28" target="_blank">
+    <img src="https://img.shields.io/badge/🔔_BOT_UPDATES-JOIN_CHANNEL_NOW-00FF00?style=for-the-badge&logo=whatsapp&logoColor=black&labelColor=000000"/>
+  </a>
+</p>
+
+<a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
+
+---
+
+## 🔐 GET PAIR CODE
 
 <p align="center">
-  <a href="https://github.com/naveedahmed35581-arch/NAVEED-MD"><img title="Forks" src="https://img.shields.io/github/forks/naveedahmed35581-arch/NAVEED-MD?style=for-the-badge&logo=github&logoColor=white&labelColor=000000"/></a>
-  <a href="https://github.com/naveedahmed35581-arch/NAVEED-MD"><img title="Stars" src="https://img.shields.io/github/stars/naveedahmed35581-arch/NAVEED-MD?style=for-the-badge&logo=github&logoColor=white&labelColor=000000"/></a>
-  <a href="https://github.com/naveedahmed35581-arch/NAVEED-MD"><img title="Active" src="https://img.shields.io/badge/✅_Status-Active-00FF00?style=for-the-badge&logo=vercel&logoColor=white&labelColor=000000"/></a>
+  <a href="https://classique-moliere-78387-3aadd828798e.herokuapp.com/" target="_blank">
+    <img src="https://img.shields.io/badge/🔑_GET_PAIR_CODE-CLICK_HERE-00FF00?style=for-the-badge&logoColor=black&labelColor=000000" width="300"/>
+  </a>
 </p>
 
----
+<p align="center"><b>Enter your number with country code — Example: <code>923213231887</code></b></p>
 
-<div align="center">
-  
-[![WhatsApp Channel](https://img.shields.io/badge/📢_JOIN_WHATSAPP_CHANNEL-25D366?style=for-the-badge&logo=whatsapp&logoColor=white&labelColor=000000)](https://whatsapp.com/channel/0029Vawbj7e5kg7AFF5MuZ28)
-[![GitHub](https://img.shields.io/badge/🔗_VIEW_ON_GITHUB-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=000000)](https://github.com/naveedahmed35581-arch/NAVEED-MD)
-
-</div>
+<a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 
 ---
 
-## 📌 **BOT FEATURES**
-
-| Feature | Status |
-|---------|--------|
-| Status Save + Send | ✅ |
-| Group Management | ✅ |
-| ChatBot | ✅ |
-| Downloading | ✅ |
-| Anti-Delete | ✅ |
-| AI | ✅ |
-| ViewOnce | ✅ |
-| Fun Commands | ✅ |
-| Status Reply | ✅ |
-| Status Reacts | ✅ |
-| HeartReacts | ✅ |
-| AutoReacts | ✅ |
-| Call Rejecter | ✅ |
-
----
-
-## 🚀 **SESSION WEB (PAIR CODE)**
-
-<div align="center">
-  <a href='https://classique-moliere-78387-3aadd828798e.herokuapp.com/' target="_blank">
-    <img src='https://img.shields.io/badge/🔗_PAIR_CODE_V1-FF0000?style=for-the-badge&logo=matrix&logoColor=white&labelColor=000000'/>
-  </a>
-  
-  <a href='https://classique-moliere-78387-3aadd828798e.herokuapp.com/' target="_blank">
-    <img src='https://img.shields.io/badge/🔗_PAIR_CODE_V2-00BFFF?style=for-the-badge&logo=matrix&logoColor=white&labelColor=000000'/>
-  </a>
-</div>
-
----
-
-## 🕹️ **DEPLOYMENT**
+## 🚀 DEPLOYMENT
 
 <div align="center">
   <table>
     <tr>
-      <td><a href="https://dashboard.heroku.com/new-app?template=https://github.com/naveedahmed35581-arch/NAVEED-MD" target="_blank"><img src="https://img.shields.io/badge/🚀_HEROKU-430098?style=for-the-badge&logo=heroku&logoColor=white&labelColor=000000&color=0000FF"/></a></td>
-      <td><a href="https://app.koyeb.com/services/deploy?type=git&repository=https://github.com/naveedahmed35581-arch/NAVEED-MD" target="_blank"><img src="https://img.shields.io/badge/🚀_KOYEB-FF009D?style=for-the-badge&logo=koyeb&logoColor=white&labelColor=000000"/></a></td>
+      <td align="center" style="padding:15px;">
+        <a href="https://dashboard.heroku.com/new?template=https://github.com/naveedahmed35581-arch/NAVEED-MD" target="_blank">
+          <img src="https://img.shields.io/badge/HEROKU-DEPLOY_NOW-00FF00?style=for-the-badge&logo=heroku&logoColor=black&labelColor=000000" width="220" height="55"/>
+        </a>
+      </td>
+      <td align="center" style="padding:15px;">
+        <a href="https://app.koyeb.com/services/deploy?type=git&repository=https://github.com/naveedahmed35581-arch/NAVEED-MD" target="_blank">
+          <img src="https://img.shields.io/badge/KOYEB-DEPLOY_NOW-00FF00?style=for-the-badge&logo=koyeb&logoColor=black&labelColor=000000" width="220" height="55"/>
+        </a>
+      </td>
     </tr>
     <tr>
-      <td><a href="https://railway.app/new" target="_blank"><img src="https://img.shields.io/badge/🚀_RAILWAY-FF8700?style=for-the-badge&logo=railway&logoColor=white&labelColor=000000"/></a></td>
-      <td><a href="https://dashboard.render.com/web/new" target="_blank"><img src="https://img.shields.io/badge/🚀_RENDER-000000?style=for-the-badge&logo=render&logoColor=white&labelColor=000000&color=00ffaa"/></a></td>
+      <td align="center" style="padding:15px;">
+        <a href="https://railway.app/new" target="_blank">
+          <img src="https://img.shields.io/badge/RAILWAY-DEPLOY_NOW-00FF00?style=for-the-badge&logo=railway&logoColor=black&labelColor=000000" width="220" height="55"/>
+        </a>
+      </td>
+      <td align="center" style="padding:15px;">
+        <a href="https://dashboard.render.com/web/new" target="_blank">
+          <img src="https://img.shields.io/badge/RENDER-DEPLOY_NOW-00FF00?style=for-the-badge&logo=render&logoColor=black&labelColor=000000" width="220" height="55"/>
+        </a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center" style="padding:15px;" colspan="2">
+        <a href="https://vps.bandaheali.site/" target="_blank">
+          <img src="https://img.shields.io/badge/🖥️_FREE_VPS-DEPLOY_NOW-00FF00?style=for-the-badge&logo=virtualbox&logoColor=black&labelColor=000000" width="300" height="55"/>
+        </a>
+      </td>
     </tr>
   </table>
 </div>
 
----
-
-## ⚠️ **WARNING**
-
-<div align="center" style="background-color: #000000; border-left: 5px solid #ff00ff; padding: 15px; border-radius: 0 15px 15px 0; box-shadow: 0 0 30px #ff00ff;">
-  <h3 style="color: #00ffff; font-family: 'Orbitron', sans-serif;">⚠️ DISCLAIMER</h3>
-  <p style="color: #ffffff;">This bot is not affiliated with WhatsApp Inc. Use at your own risk. Misuse may result in account bans.</p>
-</div>
+<a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 
 ---
 
-## 🗃️ **PROJECT ARCHITECTS**
+## ⭐ FORK & STAR
 
 <p align="center">
-  <img src="https://i.imgur.com/dBaSKWF.gif" height="40" width="100%">
+  <a href="https://github.com/naveedahmed35581-arch/NAVEED-MD/fork" target="_blank">
+    <img src="https://img.shields.io/badge/FORK-NAVEED_MD-BOT-00FF00?style=for-the-badge&logo=stackshare&labelColor=000000"/>
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://github.com/naveedahmed35581-arch/NAVEED-MD" target="_blank">
+    <img src="https://img.shields.io/badge/⭐_STAR-THIS_REPO-00FF00?style=for-the-badge&logoColor=black&labelColor=000000"/>
+  </a>
 </p>
 
-<a href="https://github.com/naveedahmed35581-arch">
-  <img src="https://github-readme-stats.vercel.app/api?username=naveedahmed35581-arch&show_icons=true&theme=dark&border_color=00ff00&title_color=00ff00&icon_color=00ff00&bg_color=000000" width="400"/>
-</a>
+<a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 
 ---
 
-## 🤖 **NAVEED-MD STATUS**
+## 📺 YOUTUBE
 
-```diff
-+ ═══════════════════════════════
-+ ✅ Project Status: Active
-+ 🚀 Version: V.5 Neon Edition
-+ 📜 License: MIT
-+ ═══════════════════════════════
+<p align="center">
+  <a href="https://youtube.com/@naveedmd" target="_blank">
+    <img src="https://img.shields.io/badge/▶️_YOUTUBE-@naveedmd-00FF00?style=for-the-badge&logo=youtube&logoColor=black&labelColor=000000"/>
+  </a>
+</p>
+
+<a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
+
+---
+
+## ⚠️ DISCLAIMER
+
+<p align="center">
+  <b>❌ NOT AFFILIATED WITH WHATSAPP INC.</b><br>
+  <b>⚡ MISUSE = BAN RISK</b><br>
+  <b>🛡️ OWNER NOT RESPONSIBLE FOR ANY MISUSE</b>
+</p>
+
+<a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
+
+---
+
+## 🎯 DISTRIBUTION (STYLISH)
+
+<div align="center">
+
+| 🌟 **FEATURE** | 📊 **STATUS** |
+|----------------|---------------|
+| 🟢 Status Save + Send | ✅ |
+| 🟢 Group Management | ✅ |
+| 🟢 ChatBot | ✅ |
+| 🟢 Downloading | ✅ |
+| 🟢 Anti-Delete | ✅ |
+| 🟢 AI | ✅ |
+| 🟢 ViewOnce | ✅ |
+| 🟢 Fun Commands | ✅ |
+| 🟢 Status Reply | ✅ |
+| 🟢 Status Reacts | ✅ |
+| 🟢 HeartReacts | ✅ |
+| 🟢 AutoReacts | ✅ |
+| 🟢 Call Rejecter | ✅ |
+
+</div>
+
+<a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
+
+<!-- STARGAZERS -->
+<p align="center">
+  <a href="https://github.com/naveedahmed35581-arch/NAVEED-MD/stargazers">
+    <img src="https://img.shields.io/github/stars/naveedahmed35581-arch/NAVEED-MD?style=social" alt="Stars"/>
+  </a>
+  &nbsp;
+  <a href="https://github.com/naveedahmed35581-arch/NAVEED-MD/network/members">
+    <img src="https://img.shields.io/github/forks/naveedahmed35581-arch/NAVEED-MD?style=social" alt="Forks"/>
+  </a>
+</p>
+
+<!-- FORKERS -->
+<p align="center">
+  <a href="https://github.com/naveedahmed35581-arch/NAVEED-MD/network/members">
+    <img src="http://reporoster.com/forks/dark/naveedahmed35581-arch/NAVEED-MD" alt="Forkers"/>
+  </a>
+</p>
+
+<a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
+
+<h2 align="center">✨ ᴛʜᴀɴᴋ ʏᴏᴜ ғᴏʀ ᴜsɪɴɢ ɴᴀᴠᴇᴇᴅ-ᴍᴅ ✨</h2>
+
+<p align="center">
+  <a href="https://github.com/naveedahmed35581-arch/NAVEED-MD">
+    <img src="https://img.shields.io/badge/⬆️-BACK_TO_TOP-00FF00?style=for-the-badge&labelColor=000000"/>
+  </a>
+</p>
