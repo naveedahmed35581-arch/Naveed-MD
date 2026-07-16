@@ -16,15 +16,18 @@ app.get('/pair', (req, res) => {
     res.sendFile(path.join(__dirname, 'pair.html'));
 });
 
-// Pair endpoint (dummy for now)
+// Simple pair endpoint
 app.post('/pair', (req, res) => {
+    const number = req.body.number || 'Not provided';
     res.json({
         success: true,
-        sessionId: "PAIR_CODE_" + Date.now(),
-        message: "Pairing successful! (dummy)"
+        sessionId: "PAIR_" + Date.now(),
+        message: `Pairing initiated for ${number}`
     });
 });
 
 app.listen(PORT, () => {
-    console.log(`✅ Pair server running on port ${PORT}`);
+    console.log(`✅ Server running on port ${PORT}`);
 });
+
+console.log('🚀 NAVEED-MD Pair Server Started!');
