@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://i.ibb.co/gLVDLnq6/file-00000000ee3c7207bc8745037a95cfc2.png" width="300" height="300" style="border-radius: 50%; border: 4px solid #00ff00; box-shadow: 0 0 30px #00ff00;"/>
+  <img src="https://i.ibb.co/gLVDLnq6/file-00000000ee3c7207bc8745037a95cfc2.png" width="200" height="200" style="border-radius: 50%; border: 4px solid #00ff00; box-shadow: 0 0 30px #00ff00; object-fit: cover;"/>
 </p>
 
 <h1 align="center">
