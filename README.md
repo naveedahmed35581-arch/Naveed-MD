@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://i.ibb.co/gLVDLnq6/file-00000000ee3c7207bc8745037a95cfc2.png" width="300" style="border-radius: 15px; box-shadow: 0 0 30px #00ff00;"/>
+  <img src="https://ik.imagekit.io/shaban/SHABAN-1784205527063_Zze7YpdxH.jpeg" width="300" style="border-radius: 15px; box-shadow: 0 0 30px #00ff00;"/>
 </p>
 
 <h1 align="center">NAVEED-MD</h1>
