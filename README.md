@@ -52,10 +52,10 @@
 ## 🚀 **SESSION WEB (2 PAIR BUTTONS - EK LINE MEIN)**
 
 <p align="center">
-  <a href='https://naveed-md-pair-1-4f8d5e45b214.herokuapp.com/' target="_blank">
+  <a href='https://classique-moliere-78387-3aadd828798e.herokuapp.com/' target="_blank">
     <img src='https://img.shields.io/badge/🔗_PAIR_CODE_V1-FF0000?style=for-the-badge&logo=matrix&logoColor=white&labelColor=000000'/>
   </a>
-  <a href='https://naveed-md-pair-1-4f8d5e45b214.herokuapp.com/' target="_blank">
+  <a href='https://classique-moliere-78387-3aadd828798e.herokuapp.com/' target="_blank">
     <img src='https://img.shields.io/badge/🔗_PAIR_CODE_V2-00BFFF?style=for-the-badge&logo=matrix&logoColor=white&labelColor=000000'/>
   </a>
 </p>
@@ -103,3 +103,4 @@
 + 🚀 Version: V.5 Neon Edition
 + 📜 License: MIT
 + ═══════════════════════════════
+
