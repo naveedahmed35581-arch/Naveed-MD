@@ -3,7 +3,9 @@
 </p>
 
 <h1 align="center">⚡ NAVEED-MD ⚡</h1>
-
+<p align="center">
+🚀 The Ultimate WhatsApp Multi Device Bot • Fast • Secure • AI Powered • Easy Deployment
+</p>
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3500&pause=1000&color=00FF99&center=true&vCenter=true&width=700&lines=🔥+WELCOME+TO+NAVEED+MD;⚡+FAST+•+SECURE+•+POWERFUL;🤖+WHATSAPP+MULTI+DEVICE+BOT;💚+MADE+WITH+JAVASCRIPT;🚀+DEPLOY+AND+ENJOY" />
 </p>
@@ -194,4 +196,18 @@
 <p align="center">
 <b>Made with ❤️ by NAVEED-MD</b><br>
 ⭐ If you like this project, don't forget to Star the repository.
+</p>
+
+---
+
+<p align="center">
+
+⭐ Thank You For Visiting ⭐
+
+❤️ Made with Love by <b>NAVEED-MD</b>
+
+💚 Please Star ⭐ this Repository if you like this project.
+
+🚀 Happy Deploying!
+
 </p>
