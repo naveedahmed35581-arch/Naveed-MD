@@ -119,6 +119,9 @@
 # 📊 PROJECT STATS
 
 <p align="center">
+<img src="https://i.imgur.com/dBaSKWF.gif" width="100%">
+</p>
+<p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=naveedahmed35581-arch&show_icons=true&theme=tokyonight" />
 </p>
 
