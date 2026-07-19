@@ -46,18 +46,29 @@
 
 # ✨ FEATURES
 
-| Feature | Status |
-|---------|:------:|
-| AI Commands | ✅ |
-| Downloader | ✅ |
-| Group Management | ✅ |
-| Auto React | ✅ |
-| Auto Status Seen | ✅ |
-| Anti Delete | ✅ |
-| View Once | ✅ |
-| Sticker | ✅ |
-| Fun Commands | ✅ |
-| Owner Commands | ✅ |
+<p align="center">
+
+<img src="https://img.shields.io/badge/🤖_AI_COMMANDS-ONLINE-00C853?style=for-the-badge"/><br>
+
+<img src="https://img.shields.io/badge/📥_DOWNLOADER-WORKING-2196F3?style=for-the-badge"/><br>
+
+<img src="https://img.shields.io/badge/👥_GROUP_MANAGEMENT-ACTIVE-9C27B0?style=for-the-badge"/><br>
+
+<img src="https://img.shields.io/badge/⚡_AUTO_REACT-ENABLED-FF9800?style=for-the-badge"/><br>
+
+<img src="https://img.shields.io/badge/👀_AUTO_STATUS_SEEN-WORKING-00BCD4?style=for-the-badge"/><br>
+
+<img src="https://img.shields.io/badge/🛡️_ANTI_DELETE-ON-4CAF50?style=for-the-badge"/><br>
+
+<img src="https://img.shields.io/badge/🔓_VIEW_ONCE-AVAILABLE-3F51B5?style=for-the-badge"/><br>
+
+<img src="https://img.shields.io/badge/🎭_STICKER-MAKER-E91E63?style=for-the-badge"/><br>
+
+<img src="https://img.shields.io/badge/🎮_FUN_COMMANDS-ACTIVE-FF5722?style=for-the-badge"/><br>
+
+<img src="https://img.shields.io/badge/👑_OWNER_COMMANDS-FULL_ACCESS-212121?style=for-the-badge"/>
+
+</p>
 
 ---
 # 🔗 SESSION WEBSITE
