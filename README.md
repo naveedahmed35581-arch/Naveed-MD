@@ -39,7 +39,13 @@
 <a href="https://github.com/naveedahmed35581-arch/NAVEED-MD">
 <img src="https://img.shields.io/badge/GITHUB_REPOSITORY-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
+<a href="https://chat.whatsapp.com/EQFhBbJcXhDBBWW64i9hyB?s=cl&p=a&ilr=1&amv=1">
+<img src="https://img.shields.io/badge/💬_JOIN_NAVEED_MD_GROUP-FF0000?style=for-the-badge&logo=whatsapp&logoColor=white"/>
+</a>
 
+<a href="https://wa.me/923162942778?text=👋%20Assalam-o-Alaikum%20Bro!%20❤️%0A%0AUmeed%20hai%20aap%20khairiyat%20se%20honge.%20😊%0A%0AMain%20aapke%20NAVEED-MD%20GitHub%20Repository%20se%20aaya%20hoon%20aur%20aapse%20rabta%20karna%20chahta%20hoon.%0A%0AMujhe%20aapke%20WhatsApp%20Bot%20ke%20baare%20me%20kuch%20maloomat%20ya%20madad%20chahiye.%20Jab%20aap%20free%20hon%20to%20zaroor%20reply%20kar%20dijiyega.%20🤝%0A%0AAllah%20Pak%20aapko%20hamesha%20khush%20rakhe.%20🤲❤️">
+<img src="https://img.shields.io/badge/👑_CONTACT_LADLA_KING-00C853?style=for-the-badge&logo=whatsapp&logoColor=white"/>
+</a>
 </p>
 
 ---
