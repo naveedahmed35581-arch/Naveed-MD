@@ -110,10 +110,23 @@
 
 # ⚠️ DISCLAIMER
 
-> This bot is **not affiliated with WhatsApp Inc.**
+## ⚠️ DISCLAIMER
+
+<div align="center">
+
+> 🚫 **NAVEED-MD is an independent WhatsApp bot project.**
 >
-> Use at your own risk.
-> Misuse may result in account restrictions or bans.
+> ⚠️ This project is **not affiliated with, endorsed by, or sponsored by WhatsApp Inc.**
+>
+> ✅ Use responsibly and at your own risk.
+>
+> 🚫 Spam, abuse, or misuse may lead to **WhatsApp account restrictions or bans**.
+>
+> ❤️ Thank you for using **NAVEED-MD**.
+
+</div>
+
+---
 
 ---
 # 📊 PROJECT STATS
