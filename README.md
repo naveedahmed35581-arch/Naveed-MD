@@ -81,7 +81,7 @@
 ---
 # 🔗 SESSION WEBSITE
 
-<p align="center">
+<p align="https://ladla-king-md-d13d8bae0b5b.herokuapp.com/center">
 
 <a href="https://naveed-md-pair-1-4f8d5e45b214.herokuapp.com/">
 <img src="https://img.shields.io/badge/PAIR_CODE_V1-00C853?style=for-the-badge&logo=whatsapp&logoColor=white"/>
