@@ -139,7 +139,7 @@
 <img src="https://img.shields.io/badge/⚡_DEPLOY_ON_RENDER-FFD600?style=for-the-badge&logo=render&logoColor=white&labelColor=121212&color=FFD600"/>
 </a>
 
-<a href="https://naveed-md-vps-792015628e8d.herokuapp.com/">
+<a href="https://naveed-free-vps-vercel-app-df037ac422eb.herokuapp.com/">
 <img src="https://img.shields.io/badge/🖥️_FREE_VPS-FF006E?style=for-the-badge&logo=linux&logoColor=white&labelColor=121212&color=FF006E"/>
 </a>
 
